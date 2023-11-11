@@ -1,0 +1,53 @@
+baseURL = "https://www.milan.bio"
+languageCode = "en-us"
+theme = "ananke"
+title = "Milan Stevanović"
+googleAnalytics = "G-41F4SC2GG7"
+enableRobotsTXT = true
+Paginate = 10
+
+[params]
+author = "Milan Stevanović"
+description = "Software Engineer, iOS"
+read_more_copy = "Read More"
+recent_copy = "My Portfolio"
+recent_posts_number = 10
+favicon = "img/swift.svg"
+post_content_classes = "avenir"
+body_classes = "avenir"
+text_color = "black"
+background_color_class = "bg-black"
+ananke_socials = [
+  {name = "github", url = "https://github.com/milanstevanovic"},
+  {name = "linkedin", url = "https://www.linkedin.com/in/mlstevanovic"},
+]
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+[[menu.main]]
+identifier = "portfolio"
+name = "Portfolio"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "services"
+name = "Services"
+url = "/services/"
+weight = 20
+
+[[menu.main]]
+identifier = "cv"
+name = "Resume"
+url = "/cv/"
+weight = 30
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 40
