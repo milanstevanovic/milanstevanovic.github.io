@@ -4,8 +4,8 @@ date = 2023-11-27T17:57:24+01:00
 draft = false
 +++
 
-# iOS App Development
-With a solid track record of over 7 years in **iOS App Development**, I am dedicated to crafting exceptional iOS applications that are not only visually appealing but also highly intuitive. My expertise covers the entire app development spectrum — starting from initial concept discovery and meticulous **UX/UI Design**, advancing through robust and innovative **iOS Development**, and culminating in strategic launch and post-launch planning. My goal is to create applications that not only meet but exceed user expectations, ensuring a seamless and engaging experience for users of Apple devices.
+# Mobile App Development
+With a solid track record in **Mobile App Development**, and some Kotlin multiplatform and back-end development I am dedicated to crafting exceptional mobile applications that are not only visually appealing but also highly intuitive. My expertise covers the entire app development spectrum — starting from initial concept discovery and meticulous **UX/UI Design**, advancing through robust and innovative **software development**, and culminating in strategic launch and post-launch planning.
 
 # Software Development Outsourcing to Serbia
 Expanding beyond direct development, I also specialize in **Software Development Outsourcing** to Serbia. This service leverages my extensive experience in setting up the successful [**BUX Engineering Hub in Belgrade**](https://milan.bio/posts/bux_belgrade/). In collaboration with a network of trusted IT companies in Serbia, I offer comprehensive outsourcing solutions. This service is particularly suited for projects that demand additional or specialized expertise that I don't posses or that's not available to you in-house.

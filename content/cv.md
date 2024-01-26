@@ -18,19 +18,32 @@ draft = false
 
 # Professional Summary
 
-I'm attracted to creating visually stunning and intuitive iOS apps that delight iPhone users and I specialize in delivering comprehensive mobile app development services that encompass the entire lifecycle of an app—from the initial product discovery phase and meticulous UX/UI design, through robust iOS development, to seamless backend integration and strategic launch planning. With a rich background that includes 7 years dedicated to iOS app development and an additional 2 years as a Product Manager for iOS applications, I am well-equipped to bring groundbreaking mobile solutions to life.
+I specialize in delivering comprehensive mobile app development services that encompass the entire lifecycle of an app—from the initial product discovery phase and meticulous UX/UI design, through robust software development, to seamless backend integration and strategic launch planning. With a long and rich experience in mobile app development and some additional experience in product management, I am well-equipped to bring groundbreaking mobile solutions to life, from concept to a finished product in your hands.
 
 # Work Experience
 
-## Software Engineer, iOS - Freelance (Sole Proprietorship / ZZP)
+## Senior Software Engineer - Tebi
+*Mar 2023 - Nov 2023 (8m)*  
+
+- Mobile and back-end software development.
+
+#### Projects
+
+- [Tebi](https://tebi.com/en/)
+
+#### Skills
+
+- Swift, Kotlin, Kotlin Multiplatform, KTOR, JVM
+
+## Senior Software Engineer - Freelance (Sole Proprietorship / ZZP)
 *Nov 2023 - Present* 
 
-As a freelance Software Engineer, I leverage my extensive experience to provide end-to-end solutions in iOS app development. Specializing in bringing fintech concepts to life, I manage the entire product lifecycle from ideation to market launch.
+As a freelance Senior Software Engineer, I leverage my extensive experience to provide end-to-end solutions in mobile app development. Specializing in bringing app concepts to life, I manage the entire product lifecycle from ideation to market launch.
 My services encompass:
 
 - Conducting product discovery to align with market needs and user expectations.
-- Designing intuitive and impactful user experiences for iOS platforms.
-- Developing and implementing robust, scalable iOS applications.
+- Designing intuitive and impactful user experiences for mobile platforms.
+- Developing and implementing robust, scalable mobile applications.
 - Overseeing project management to ensure timely delivery and quality standards.
 - Providing IT consulting to optimize tech strategies and operations.
 
@@ -38,7 +51,7 @@ With a dual background in technical development and product strategy, I offer a 
 
 #### Skills
 
-- iOS App Development, Swift, Objective-C, Product Management, SCRUM, Agile Methodologies, Software Development Outsourcing
+- iOS App Development, Swift, Objective-C, Kotlin, Kotlin Multiplatform, Android, Product Management, SCRUM, Agile Methodologies, Software Development Outsourcing
 
 ## Product Manager, iOS - Air Apps
 *Mar 2023 - Nov 2023 (8m)*  
@@ -112,14 +125,14 @@ With a dual background in technical development and product strategy, I offer a 
 
 - iOS App Development, Swift, Objective-C, Cocoa Touch, GitHub, CI/CD
 
-## Software Engineer, iOS - Synechron
+## Software Engineer - Synechron
 *Jul 2015 - Dec 2015 (5m)*  
 
-- Worked on development of various iOS apps.
+- Worked on development of various backend and frontend apps.
 
 #### Skills
 
-- iOS App Development, Swift, Objective-C, Cocoa Touch, GitHub, CI/CD
+- Java, JavaScript, SQL, JVM
 
 ## Education
 
