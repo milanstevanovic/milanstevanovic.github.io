@@ -23,7 +23,7 @@ I specialize in delivering comprehensive mobile app development services that en
 # Work Experience
 
 ## Senior Software Engineer - Tebi
-*Mar 2023 - Nov 2023 (8m)*  
+*Dec 2023 - Present*  
 
 - Mobile and back-end software development.
 
