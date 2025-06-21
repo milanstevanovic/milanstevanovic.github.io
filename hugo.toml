@@ -1,6 +1,6 @@
 baseURL = "https://www.milan.bio"
 languageCode = "en-us"
-theme = "terminal"
+theme = "PaperMod"
 title = "Milan Stevanović"
 googleAnalytics = "G-41F4SC2GG7"
 enableRobotsTXT = true
@@ -12,10 +12,47 @@ pagerSize = 10
 unsafe = true
 
 [params]
-contentTypeName = "posts"
-showMenuItems = 4
-fullWidthTheme = false
-centerTheme = false
+# Theme mode
+defaultTheme = "auto"
+disableThemeToggle = false
+
+# Homepage configuration
+[params.profileMode]
+enabled = false
+
+# Features
+ShowReadingTime = true
+ShowShareButtons = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowToc = true
+TocOpen = false
+
+# SEO
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+
+# Homepage content
+[params.homeInfoParams]
+Title = "Milan Stevanović"
+Content = """
+Co-Founder & CTO building mindfulness technology
+
+10+ years across engineering, product, and leadership roles in fintech and mobile development.
+"""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/milanstevanovic"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/milanstevanovic"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:hello@milan.bio"
 
 [languages]
 [languages.en]
@@ -23,19 +60,12 @@ centerTheme = false
   subtitle = "Senior Software Engineer & Product Manager"
   keywords = "software engineer, product manager, iOS, kotlin multiplatform, mobile development"
   copyright = "© 2025 Milan Stevanović"
-  menuMore = "Show more"
-  readMore = "Read more"
-  readOtherPosts = "Read other posts"
-
-  [languages.en.params.logo]
-    logoText = "milan.bio"
-    logoHomeLink = "/"
 
   [languages.en.menu]
     [[languages.en.menu.main]]
-      identifier = "journey"
+      identifier = "posts"
       name = "My Journey"
-      url = "/"
+      url = "/posts/"
       weight = 10
     [[languages.en.menu.main]]
       identifier = "services"
@@ -52,3 +82,8 @@ centerTheme = false
       name = "Contact"
       url = "/contact/"
       weight = 40
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "Search"
+      url = "/search/"
+      weight = 50

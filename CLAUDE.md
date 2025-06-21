@@ -32,8 +32,8 @@ hugo --gc --minify
 ## Architecture
 
 ### Technology Stack
-- **Static Site Generator**: Hugo v0.120.3 (Extended version)
-- **Theme**: Ananke
+- **Static Site Generator**: Hugo v0.147.8 (Extended version)
+- **Theme**: PaperMod (installed as git submodule)
 - **Hosting**: GitHub Pages
 - **CI/CD**: GitHub Actions
 
