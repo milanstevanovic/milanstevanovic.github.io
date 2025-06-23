@@ -37,9 +37,8 @@ UseHugoToc = true
 [params.homeInfoParams]
 Title = "Milan Stevanović"
 Content = """
-Co-Founder & CTO building mindfulness technology
-
-10+ years across engineering, product, and leadership roles in fintech and mobile development.
+Co-Founder & CTO
+10+ years across engineering, product, and leadership roles
 """
 
 [[params.socialIcons]]
@@ -82,8 +81,3 @@ url = "mailto:hello@milan.bio"
       name = "Contact"
       url = "/contact/"
       weight = 40
-    [[languages.en.menu.main]]
-      identifier = "search"
-      name = "Search"
-      url = "/search/"
-      weight = 50
