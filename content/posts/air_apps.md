@@ -1,11 +1,14 @@
-+++
-title = 'Air Apps: Product Leadership in AI-First Mobile Apps'
-description = 'Leading product strategy for Hello AI, one of the first apps to integrate OpenAI GPT APIs'
-date = 2023-11-12T14:55:53+01:00
-draft = false
-featured_image = ''
-disable_share = true
-+++
+---
+title: "Air Apps: Product Leadership in AI-First Mobile Apps"
+description: "Leading product strategy for Hello AI, one of the first apps to integrate OpenAI GPT APIs"
+date: 2023-11-12T14:55:53+01:00
+draft: false
+disable_share: true
+cover:
+  image: "/img/air_apps.png"
+  alt: "Air Apps Product Portfolio"
+  caption: "Building AI-First Mobile Applications"
+---
 
 # The Challenge: Managing Multiple iOS Apps at Scale
 

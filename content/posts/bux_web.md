@@ -1,11 +1,14 @@
-+++
-title = 'BUX Web: From Mobile-First to Multi-Platform Leadership'
-description = 'Led product strategy to expand successful mobile app to web platform, driving 40% user growth'
-date = 2023-11-10T11:04:27+01:00
-draft = false
-featured_image = ''
-disable_share = true
-+++
+---
+title: "BUX Web: From Mobile-First to Multi-Platform Leadership"
+description: "Led product strategy to expand successful mobile app to web platform, driving 40% user growth"
+date: 2023-11-10T11:04:27+01:00
+draft: false
+disable_share: true
+cover:
+  image: "/img/bux_web.png"
+  alt: "BUX Web Platform"
+  caption: "Expanding BUX to Web - Multi-Platform Trading"
+---
 
 # The Strategic Challenge: Expanding Beyond Mobile
 

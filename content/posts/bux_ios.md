@@ -1,11 +1,14 @@
-+++
-title = "BUX iOS: Building Europe's Leading Neo-Brokerage App"
-description = "Founding engineer who built BUX Zero from ground up, serving 1M+ users across Europe"
-date = 2023-11-09T15:54:00+01:00
-draft = false
-featured_image = ''
-disable_share = true
-+++
+---
+title: "BUX iOS: Building Europe's Leading Neo-Brokerage App"
+description: "Founding engineer who built BUX Zero from ground up, serving 1M+ users across Europe"
+date: 2023-11-09T15:54:00+01:00
+draft: false
+disable_share: true
+cover:
+  image: "/img/bux_ios.png"
+  alt: "BUX iOS App Screenshot"
+  caption: "BUX Zero - Europe's Leading Neo-Brokerage App"
+---
 
 # The Mission: Democratize Investing for Everyone
 

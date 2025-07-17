@@ -2,8 +2,11 @@
 title: "Featured on Enginears Podcast: Discussing Tebi's Mission"
 date: 2024-12-15T10:00:00+01:00
 draft: false
-featured_image: ''
 description: "A conversation about building the future of hospitality technology"
+cover:
+  image: "/img/enginears.png"
+  alt: "Enginears Podcast Episode"
+  caption: "Discussing Tebi's Mission on Enginears Podcast"
 ---
 
 I had the pleasure of joining the Enginears podcast alongside my colleague Michael Nugent to discuss our work at Tebi and the company's mission to revolutionize hospitality technology.

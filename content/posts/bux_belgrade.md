@@ -1,11 +1,14 @@
-+++
-title = 'BUX Belgrade: Building International Engineering Teams'
-description = 'Founded and led BUX Serbia as Country GM, scaling from 0 to full engineering hub in 12 months'
-date = 2023-11-12T14:54:46+01:00
-draft = false
-featured_image = ''
-disable_share = true
-+++
+---
+title: "BUX Belgrade: Building International Engineering Teams"
+description: "Founded and led BUX Serbia as Country GM, scaling from 0 to full engineering hub in 12 months"
+date: 2023-11-12T14:54:46+01:00
+draft: false
+disable_share: true
+cover:
+  image: "/img/bux_belgrade_1.png"
+  alt: "BUX Belgrade Office"
+  caption: "Building BUX's International Engineering Hub"
+---
 
 # The Business Challenge: Scaling Engineering Talent
 
