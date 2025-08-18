@@ -24,16 +24,18 @@ I'm attracted to creating visually stunning and intuitive iOS apps that delight 
 
 ## Experience
 
-### Stealth Startup
+### Goodmorning
 **Co-Founder & CTO**  
 *March 2025 - Present*  
 Amsterdam, North Holland, Netherlands · Remote
 
-- Co-founding a stealth startup in the mindfulness space focused on reducing stress and elevating mental well-being
-- Driving technical strategy and platform development as CTO
-- Building and leading the engineering team (backend, design, mobile development)
-- Personally developing the iOS application using cutting-edge mobile technologies
-- Architecting scalable solutions for mental health and wellness technology
+- Co-founded [Goodmorning](https://www.goodmorning.me/), a wellness tech startup focused on scientifically-backed breathwork for stress relief
+- Leading all technical development as CTO, from first line of code to full product architecture
+- Built native iOS app using SwiftUI with MVVM architecture, Rive animations, and AI-powered voice guidance (ElevenLabs)
+- Architected full-stack solution with Spring Boot/Kotlin backend and automated CI/CD pipelines
+- Established entire tech infrastructure: Google Workspace, Linear, GitHub, and security protocols
+- Building and leading the engineering team while maintaining hands-on development
+- Leveraging AI-accelerated development with Claude Code MCP integrations for Figma, Linear, and Google Workspace
 
 ### Tebi
 **Senior Software Engineer**  
