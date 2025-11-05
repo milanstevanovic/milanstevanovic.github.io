@@ -12,7 +12,7 @@ draft = false
 
 # Milan Stevanović
 
-**Software Engineering & Product Management Professional | Software Outsourcing Expert with Proven Experience**  
+**Product-First CTO | 0→100 Builder | Global Dev Team Assembly**  
 Amsterdam, North Holland, Netherlands  
 [milan.stevanovic.nl@gmail.com](mailto:milan.stevanovic.nl@gmail.com)  
 [www.linkedin.com/in/mlstevanovic](https://www.linkedin.com/in/mlstevanovic)  
@@ -20,7 +20,24 @@ Amsterdam, North Holland, Netherlands
 
 ## Summary
 
-I'm attracted to creating visually stunning and intuitive iOS apps that delight iPhone users and I specialize in delivering comprehensive mobile app development services that encompass the entire lifecycle of an app—from the initial product discovery phase and meticulous UX/UI design, through robust iOS development, to seamless backend integration and strategic launch planning. With a rich background that includes 7 years dedicated to iOS app development and an additional 2 years as a Product Manager for iOS applications, I am well-equipped to bring groundbreaking mobile solutions to life.
+I build products from zero to exit.
+
+Started out coding iOS apps, scaled to Product Manager at BUX (€100M+ neobroker), then became a CTO. Now I help startups navigate the entire journey - from napkin sketch to cap table, from first line of code to Series A metrics.
+
+What I actually do:
+- Product Strategy: Transform ideas into products people pay for. I've built fintech apps with millions in revenue and wellness platforms from scratch.
+- Technical Due Diligence: Evaluate tech stacks, teams, and burn rates. I speak both VC and developer.
+- Team Assembly: Connect startups with battle-tested engineering teams globally. Built development hubs in Serbia, managed teams in Netherlands, Dubai, and beyond.
+- Investment Analysis: From unit economics to financial models - I bridge the gap between GitHub and Excel.
+
+My sweet spot:
+- Fintech startups that need someone who can read both code and term sheets. I've been an Engineer who wrote code, the Product Manager who shipped, the CTO who hired, and now I'm the advisor who's seen all the mistakes.
+
+Currently running Milan Ventures - part venture builder, part CTO-as-a-Service, part investment vehicle.
+
+I don't just consult. I build, ship, and scale.
+
+Based in Serbia, operating globally. Fluent in startup.
 
 ## Experience
 
