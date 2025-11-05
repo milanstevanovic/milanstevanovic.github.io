@@ -34,6 +34,15 @@ Belgrade, Serbia · Remote
 - Build and manage dedicated engineering teams through outsourcing partnerships, connecting clients with top Serbian development talent
 - Offer end-to-end software development consulting from architecture and team building to technical leadership
 
+### nQode
+**Business Development Partner**
+*November 2023 - Present*
+Novi Sad, Vojvodina, Serbia · Remote
+
+- Connect enterprise clients with Serbian development talent, focusing on Netherlands and Dubai markets
+- Built dedicated engineering teams for multiple clients
+- Provide CTO-level technical guidance during hiring and team integration
+
 ### Goodmorning
 **Co-Founder & CTO**
 *March 2025 - October 2025 (8 months)*
@@ -61,15 +70,6 @@ Amsterdam, North Holland, Netherlands · On-site
 - Featured as a guest on the [Enginears podcast](https://www.linkedin.com/feed/update/urn:li:activity:7333477231282851840/), discussing Tebi's mission to empower hospitality businesses and the technical challenges of building an all-in-one platform
 
 **Podcast Appearance**: [Watch the Enginears Podcast Episode](https://www.youtube.com/watch?v=06_6iRwOeNk) where I discuss Tebi's journey, technical architecture, and future roadmap alongside Michael Nugent and host Elliot Kipling.
-
-### nQode
-**Business Development Partner**
-*November 2023 - Present*
-Novi Sad, Vojvodina, Serbia · Remote
-
-- Connect enterprise clients with Serbian development talent, focusing on Netherlands and Dubai markets
-- Built dedicated engineering teams for multiple clients
-- Provide CTO-level technical guidance during hiring and team integration
 
 ### Air Apps
 **Product Manager**  
