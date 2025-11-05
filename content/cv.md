@@ -24,9 +24,19 @@ I'm attracted to creating visually stunning and intuitive iOS apps that delight 
 
 ## Experience
 
+### Milan Ventures DOO
+**CEO & Founder**
+*March 2025 - Present*
+Belgrade, Serbia · Remote
+
+- Founded Milan Ventures DOO to provide IT consulting and software outsourcing services to international clients
+- Deliver strategic technical guidance and CTO-level consulting for companies across various industries
+- Build and manage dedicated engineering teams through outsourcing partnerships, connecting clients with top Serbian development talent
+- Offer end-to-end software development consulting from architecture and team building to technical leadership
+
 ### Goodmorning
-**Co-Founder & CTO**  
-*March 2025 - Present*  
+**Co-Founder & CTO**
+*March 2025 - October 2025 (8 months)*
 Amsterdam, North Holland, Netherlands · Remote
 
 - Co-founded [Goodmorning](https://www.goodmorning.me/), a wellness tech startup focused on scientifically-backed breathwork for stress relief
@@ -51,6 +61,15 @@ Amsterdam, North Holland, Netherlands · On-site
 - Featured as a guest on the [Enginears podcast](https://www.linkedin.com/feed/update/urn:li:activity:7333477231282851840/), discussing Tebi's mission to empower hospitality businesses and the technical challenges of building an all-in-one platform
 
 **Podcast Appearance**: [Watch the Enginears Podcast Episode](https://www.youtube.com/watch?v=06_6iRwOeNk) where I discuss Tebi's journey, technical architecture, and future roadmap alongside Michael Nugent and host Elliot Kipling.
+
+### nQode
+**Business Development Partner**
+*November 2023 - Present*
+Novi Sad, Vojvodina, Serbia · Remote
+
+- Connect enterprise clients with Serbian development talent, focusing on Netherlands and Dubai markets
+- Built dedicated engineering teams for multiple clients
+- Provide CTO-level technical guidance during hiring and team integration
 
 ### Air Apps
 **Product Manager**  
