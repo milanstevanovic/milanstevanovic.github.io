@@ -16,6 +16,10 @@ unsafe = true
 defaultTheme = "auto"
 disableThemeToggle = false
 
+# Footer
+[params.footer]
+text = "[Milan Ventures DOO](https://www.companywall.rs/firma/milan-ventures/MMxFlfE20) (VAT: 114947778, Reg: 22094980)"
+
 # Homepage configuration
 [params.profileMode]
 enabled = false
