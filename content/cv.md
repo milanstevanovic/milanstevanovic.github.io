@@ -28,16 +28,9 @@ What I actually do:
 - Product Strategy: Transform ideas into products people pay for. I've built fintech apps with millions in revenue and wellness platforms from scratch.
 - Technical Due Diligence: Evaluate tech stacks, teams, and burn rates. I speak both VC and developer.
 - Team Assembly: Connect startups with battle-tested engineering teams globally. Built development hubs in Serbia, managed teams in Netherlands, Dubai, and beyond.
-- Investment Analysis: From unit economics to financial models - I bridge the gap between GitHub and Excel.
 
 My sweet spot:
 - Fintech startups that need someone who can read both code and term sheets. I've been an Engineer who wrote code, the Product Manager who shipped, the CTO who hired, and now I'm the advisor who's seen all the mistakes.
-
-Currently running Milan Ventures - part venture builder, part CTO-as-a-Service, part investment vehicle.
-
-I don't just consult. I build, ship, and scale.
-
-Based in Serbia, operating globally. Fluent in startup.
 
 ## Experience
 
@@ -130,9 +123,9 @@ Rotterdam, South Holland, Netherlands
 
 - Worked on development of Salesmap, the all-in-one field sales app for foodservice professionals
 
-### codecentric Serbia
-**Software Engineer (iOS)**  
-*December 2015 - June 2017 (1 year 7 months)*  
+### ProductDock (codecentric Serbia)
+**Software Engineer (iOS)**
+*December 2015 - June 2017 (1 year 7 months)*
 Novi Sad, Serbia
 
 - Worked on development of AXA Wayguard, the leading personal security app in Germany (at the time), developed in collaboration with Cologne police, which gives a piece of mind to people walking home alone
