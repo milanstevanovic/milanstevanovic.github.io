@@ -32,7 +32,7 @@ hugo --gc --minify
 ## Architecture
 
 ### Technology Stack
-- **Static Site Generator**: Hugo v0.147.8 (Extended version)
+- **Static Site Generator**: Hugo v0.160.1 (Extended version)
 - **Theme**: PaperMod (installed as git submodule)
 - **Hosting**: GitHub Pages
 - **CI/CD**: GitHub Actions
@@ -46,7 +46,7 @@ hugo --gc --minify
 - `/content/`: All website content in Markdown
 - `/layouts/`: Custom Hugo templates overriding theme defaults
 - `/static/`: Static assets (images, PDFs)
-- `/themes/ananke/`: Complete theme directory (avoid editing directly)
+- `/themes/PaperMod/`: Complete theme directory (avoid editing directly)
 
 ### Deployment Process
 1. Push changes to main branch
