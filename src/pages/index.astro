@@ -1,0 +1,43 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
+import SocialIcons from '../components/SocialIcons.astro';
+import { getPosts } from '../lib/posts';
+import { OFFERS, SITE } from '../site';
+
+const posts = await getPosts();
+---
+
+<Base>
+  <section class="mb-12">
+    <h1 class="text-4xl font-bold tracking-tight">{SITE.name}</h1>
+    <div class="mt-3 text-lg text-muted">
+      {SITE.roleLines.map((line) => <p>{line}</p>)}
+    </div>
+    <div class="mt-5">
+      <SocialIcons />
+    </div>
+  </section>
+
+  <section aria-labelledby="services" class="mb-14">
+    <h2 id="services" class="text-2xl font-bold tracking-tight">What I offer</h2>
+    <div class="mt-6 grid gap-4 sm:grid-cols-2">
+      {
+        OFFERS.map(({ title, text, href }) => (
+          <a href={href} class="group block rounded-xl border border-line bg-surface p-5 no-underline hover:border-accent">
+            <h3 class="font-semibold group-hover:underline">{title}</h3>
+            <p class="mt-2 text-muted">{text}</p>
+          </a>
+        ))
+      }
+    </div>
+    <p class="mt-5">
+      <a href="/contact/" class="font-medium text-accent underline">Tell me what you need</a>
+    </p>
+  </section>
+
+  <section aria-labelledby="case-studies" class="space-y-8">
+    <h2 id="case-studies" class="text-2xl font-bold tracking-tight">Case Studies</h2>
+    {posts.map((post, i) => <PostCard post={post} eager={i === 0} headingLevel={3} />)}
+  </section>
+</Base>

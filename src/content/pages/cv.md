@@ -1,0 +1,159 @@
+---
+title: "Resume"
+heading: "Milan Stevanović"
+description: "CV of Milan Stevanović, founder of Milan Ventures: product and engineering leadership, and engineering teams in Serbia."
+draft: false
+---
+
+![Avatar](../../assets/img/avatar.png)
+
+**Founder, Milan Ventures | Dedicated Engineering Teams | Fractional Product & Tech Leadership**  
+Amsterdam, North Holland, Netherlands  
+[milan.stevanovic.nl@gmail.com](mailto:milan.stevanovic.nl@gmail.com)  
+[www.linkedin.com/in/mlstevanovic](https://www.linkedin.com/in/mlstevanovic)  
+[milan.bio](https://milan.bio) (Personal)
+
+## Summary
+
+I build product and engineering organizations.
+
+Started out coding iOS apps, became Product Manager at BUX (€100M+ neobroker), set up and ran its engineering hub in Serbia, then led product and tech as CTO and Head of Product. Today, through Milan Ventures, I give companies in the Netherlands, Europe and the US the teams and the leadership to build their products.
+
+What I do:
+- Dedicated Engineering Teams: Hire, employ and run engineers, QA, designers and product managers in Serbia, from a single engineer to a full team or managed delivery.
+- Fractional Leadership: Step in as Head of Product, VP, CPO or CTO for companies that need senior product and tech leadership now.
+- Technical Due Diligence: Evaluate tech stacks, teams, and burn rates. I speak both VC and developer.
+
+I've been the Engineer who wrote code, the Product Manager who shipped, the GM who built a team in a new country, and the CTO who hired.
+
+## Experience
+
+### Roamtech Solutions Limited
+**Head of Product** · Contract
+*January 2026 - Present*
+Nairobi County, Kenya · Remote
+
+Leading product strategy across Roamtech's fintech and communications product portfolio serving users around the world.
+
+Building a modern product organization grounded in empowered teams, continuous discovery, and outcome-driven development. Responsible for product vision, roadmap prioritization, and evolving the team's craft toward world-class product management practices.
+
+### Milan Ventures DOO
+**CEO & Founder**
+*March 2025 - Present*
+Belgrade, Serbia · Remote
+
+- Founded Milan Ventures DOO to provide dedicated engineering teams and product and tech leadership to companies in the Netherlands, Europe and the US
+- Employ and run engineers, QA, designers and product managers in Serbia, working as an extension of client teams, as dedicated teams, or on managed delivery
+- Provide fractional Head of Product, VP and C-level leadership for product and tech
+
+### nQode
+**Business Development Partner**
+*November 2023 - Present*
+Novi Sad, Vojvodina, Serbia · Remote
+
+- Connect enterprise clients with Serbian development talent, focusing on Netherlands and Dubai markets
+- Built dedicated engineering teams for multiple clients
+- Provide CTO-level technical guidance during hiring and team integration
+
+### Goodmorning
+**Co-Founder & CTO**
+*March 2025 - October 2025 (8 months)*
+Amsterdam, North Holland, Netherlands · Remote
+
+- Co-founded [Goodmorning](https://www.goodmorning.me/), a wellness tech startup focused on scientifically-backed breathwork for stress relief
+- Led all technical development as CTO, from first line of code to full product architecture
+- Built native iOS app using SwiftUI with MVVM architecture, Rive animations, and AI-powered voice guidance (ElevenLabs)
+- Architected full-stack solution with Spring Boot/Kotlin backend and automated CI/CD pipelines
+- Established entire tech infrastructure: Google Workspace, Linear, GitHub, and security protocols
+- Built and led the engineering team while staying hands-on in development
+- Used AI-accelerated development with Claude Code MCP integrations for Figma, Linear, and Google Workspace
+
+### Tebi
+**Senior Software Engineer**  
+*December 2023 - March 2025 (1 year 4 months)*  
+Amsterdam, North Holland, Netherlands · On-site
+
+- Develop cross-platform mobile applications using Kotlin Multiplatform Mobile (KMM) and Swift, delivering consistent experiences across Android and iOS platforms
+- Implement backend solutions to support Tebi's POS systems, ensuring stability and performance for business clients
+- Engage directly with clients to understand requirements and translate them into technical specifications
+- Contribute to the architecture and development of new features for Tebi's point-of-sale systems
+- Collaborate with team members on optimizing application performance and improving user experience
+- Apply product thinking to engineering tasks, bridging the gap between technical implementation and business needs
+- Featured as a guest on the [Enginears podcast](https://www.linkedin.com/feed/update/urn:li:activity:7333477231282851840/), discussing Tebi's mission to empower hospitality businesses and the technical challenges of building an all-in-one platform
+
+**Podcast Appearance**: [Watch the Enginears Podcast Episode](https://www.youtube.com/watch?v=06_6iRwOeNk) where I discuss Tebi's journey, technical architecture, and future roadmap alongside Michael Nugent and host Elliot Kipling.
+
+### Air Apps
+**Product Manager**  
+*March 2023 - November 2023 (9 months)*  
+Amsterdam, North Holland, Netherlands
+
+- Product Management for various apps from the AirApps extensive iOS app offering
+- Leading the product effort on developing the SDK and BaaS that power all the AirApps iOS apps
+- Coming up with internal Product guidelines and how-to guides in order to streamline the Product process
+
+### BUX
+*5 years 4 months*
+
+**Product Manager**  
+*October 2021 - March 2023 (1 year 6 months)*  
+Amsterdam, North Holland, Netherlands
+
+- I initiated and lead the implementation of a new feature inside the BUX mobile app which would allow users to read news related to financial products and their personal portfolios, earning calendars and more. During this project I moved from Engineering into Product
+- In my new Product role, I kickstarted and lead the efforts on bringing the BUX app (that I originally built) to the big screens. Due to my extensive Engineering background I also acted as the hiring manager for the whole new team that needed to be hired
+- Initiated and lead the incorporation of BUX's first Engineering Hub outside of the Netherlands in Belgrade, Serbia and was the acting GM of the local entity
+
+**Country General Manager**  
+*April 2022 - February 2023 (11 months)*  
+Belgrade, Serbia
+
+- Led the establishment and operations of BUX Fintech D.O.O., the Serbian Office / Engineering Hub for BUX B.V. which is a company from the Netherlands
+- Responsible for setting up local operations, recruiting engineering talent, and managing the subsidiary while maintaining dual responsibilities as Product Manager for the parent company
+- Collaborated across both Serbian and Dutch offices, traveling regularly between locations to ensure seamless integration with the company's overall technical and product strategy
+
+**Senior Software Engineer (iOS)**  
+*December 2017 - October 2021 (3 years 11 months)*  
+Amsterdam, North Holland, Netherlands
+
+- Was a founding member of a team of Software Engineers who built the BUX app, the leading European neobrokerage app, from ground up
+- Besides development I have also contributed to the Product Discovery process with many original ideas, many of which are prominent user engagement and revenue generators in the app
+
+### Datlinq
+**Software Engineer (iOS)**  
+*June 2017 - December 2017 (7 months)*  
+Rotterdam, South Holland, Netherlands
+
+- Worked on development of Salesmap, the all-in-one field sales app for foodservice professionals
+
+### ProductDock (codecentric Serbia)
+**Software Engineer (iOS)**
+*December 2015 - June 2017 (1 year 7 months)*
+Novi Sad, Serbia
+
+- Worked on development of AXA Wayguard, the leading personal security app in Germany (at the time), developed in collaboration with Cologne police, which gives a piece of mind to people walking home alone
+- Worked on development of various other iOS apps
+
+### Synechron
+**Software Engineer**  
+*July 2015 - December 2015 (6 months)*  
+Novi Sad, Serbia
+
+- Worked on development of various backend and frontend apps
+
+## Skills
+
+### Top Skills
+- Product Management
+- Engineering Team Building
+- Product & Tech Leadership
+
+### Languages
+- Serbian (Native or Bilingual)
+- Dutch (Limited Working)
+- English (Native or Bilingual)
+
+## Certifications
+- Certified Scrum Product Owner® (CSPO®)
+
+## Honors-Awards
+- 1st place at Startup Weekend Novi Sad #04

@@ -1,0 +1,17 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getPosts } from '../../lib/posts';
+
+const posts = await getPosts();
+---
+
+<Base
+  title="Case Studies"
+  description="Case studies in product and engineering leadership: BUX, Air Apps, Tebi, Goodmorning, Roamtech and building BUX's engineering hub in Serbia."
+>
+  <h1 class="mb-10 text-3xl font-bold tracking-tight sm:text-4xl">Case Studies</h1>
+  <div class="space-y-8">
+    {posts.map((post, i) => <PostCard post={post} eager={i === 0} />)}
+  </div>
+</Base>

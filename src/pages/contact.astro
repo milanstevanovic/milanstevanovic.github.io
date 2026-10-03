@@ -1,0 +1,12 @@
+---
+import { getEntry } from 'astro:content';
+import Page from '../layouts/Page.astro';
+import ContactForm from '../components/ContactForm.astro';
+
+const page = await getEntry('pages', 'contact');
+if (!page) throw new Error('Missing src/content/pages/contact.md');
+---
+
+<Page page={page}>
+  <ContactForm />
+</Page>

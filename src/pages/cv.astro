@@ -1,0 +1,12 @@
+---
+import { getEntry } from 'astro:content';
+import Page from '../layouts/Page.astro';
+import PrintButton from '../components/PrintButton.astro';
+
+const page = await getEntry('pages', 'cv');
+if (!page) throw new Error('Missing src/content/pages/cv.md');
+---
+
+<Page page={page}>
+  <PrintButton slot="before" />
+</Page>
