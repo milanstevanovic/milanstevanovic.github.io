@@ -1,69 +1,32 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Personal and company site for Milan Stevanović at https://milan.bio.
+Astro 7, static output, Tailwind 4, hosted on GitHub Pages. Milan is the only editor.
 
-## Project Overview
+## Commands
+- `npm run dev`: local preview at http://localhost:4321
+- `npm run build`: build to `dist/`
+- `npx astro check`: type and content checks
+- `npm run check:urls`: confirms every URL in the contract exists in `dist/`
 
-This is a personal portfolio website for Milan Stevanović built with Hugo static site generator. The site is automatically deployed to GitHub Pages at https://www.milan.bio.
+## Rules
+- Never change an existing URL. Post URLs are `/posts/<file name>/`, so never rename a file in `src/content/posts/`.
+- All page URLs end with a slash.
+- Do not rewrite Milan's copy unless he asks. Fix structure, not wording.
+- One H1 per page, taken from the front matter `title`. Body headings start at `##`.
+- Images go in `src/assets/img/` and are referenced with relative paths. Nothing goes in `public/` except `CNAME`, `robots.txt` and favicons.
+- Site-wide text (name, role line, navigation, social links, footer) lives in `src/site.ts`.
+- Colours, fonts and spacing live in `src/styles/global.css` as tokens.
+- No client JavaScript unless Milan asks for it.
+- No analytics, no cookies.
+- Do not touch DNS, `public/CNAME` or the Formspree form action.
+- Check Astro APIs against the docs before using them. Use `npx astro add` for integrations.
 
-## Key Commands
+## Content
+- New case study: add `src/content/posts/<name>.md` with `title`, `description`, `date`, `cover.image`, `cover.alt`.
+- Pages: `src/content/pages/services.md`, `cv.md`, `contact.md`.
 
-### Development
-```bash
-# Start local development server
-hugo server -D
-
-# Build the site (output to public/)
-hugo
-
-# Create new portfolio item
-hugo new posts/project-name.md
-
-# Build with minification (production)
-hugo --gc --minify
-```
-
-### Content Management
-- Portfolio items: Create markdown files in `content/posts/`
-- Service pages: Edit `content/services.md`
-- Resume: Edit `content/cv.md`
-- Contact: Edit `content/contact.md`
-
-## Architecture
-
-### Technology Stack
-- **Static Site Generator**: Hugo v0.160.1 (Extended version)
-- **Theme**: PaperMod (installed as git submodule)
-- **Hosting**: GitHub Pages
-- **CI/CD**: GitHub Actions
-
-### Key Files
-- `hugo.toml`: Main configuration (site URL, theme, menus, analytics)
-- `.github/workflows/hugo.yaml`: Automated deployment workflow
-- `CNAME`: Custom domain configuration (milan.bio)
-
-### Directory Structure
-- `/content/`: All website content in Markdown
-- `/layouts/`: Custom Hugo templates overriding theme defaults
-- `/static/`: Static assets (images, PDFs)
-- `/themes/PaperMod/`: Complete theme directory (avoid editing directly)
-
-### Deployment Process
-1. Push changes to main branch
-2. GitHub Actions workflow triggers automatically
-3. Hugo builds site with minification
-4. Deploys to GitHub Pages
-
-### Content Structure
-Portfolio items in `content/posts/` should include:
-- `title`: Project name
-- `date`: Publication date
-- `draft`: false (for published items)
-- `featured_image`: Path to header image
-- Content: Project description and details
-
-### Styling Configuration
-- Background: Black (`bg-black`)
-- Text: Black
-- Fonts: Avenir
-- Favicon: Swift logo (`img/swift.svg`)
+## Deploy
+- Push to `main` deploys through `.github/workflows/deploy.yml`.
+- Small edits go straight to `main`. Larger changes go on a branch with a pull request.
+- Run `npm run build` and `npm run check:urls` before every push.

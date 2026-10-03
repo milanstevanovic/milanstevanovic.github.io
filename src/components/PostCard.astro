@@ -1,0 +1,35 @@
+---
+import { Image } from 'astro:assets';
+import { formatDate, readingTime, type Post } from '../lib/posts';
+
+interface Props {
+  post: Post;
+  eager?: boolean;
+}
+
+const { post, eager = false } = Astro.props;
+const { title, description, date, cover } = post.data;
+---
+
+<article class="group relative overflow-hidden rounded-xl border border-line bg-surface">
+  <Image
+    src={cover.image}
+    alt={cover.alt}
+    width={672}
+    sizes="(min-width: 42rem) 672px, 100vw"
+    class="aspect-[2/1] w-full object-cover"
+    loading={eager ? 'eager' : 'lazy'}
+    fetchpriority={eager ? 'high' : 'auto'}
+  />
+  <div class="p-5">
+    <h2 class="text-lg font-semibold leading-snug">
+      <a href={`/posts/${post.id}/`} class="no-underline after:absolute after:inset-0 group-hover:underline">
+        {title}
+      </a>
+    </h2>
+    <p class="mt-2 text-muted">{description}</p>
+    <p class="mt-3 text-sm text-muted">
+      <time datetime={date.toISOString()}>{formatDate(date)}</time> · {readingTime(post.body)} min
+    </p>
+  </div>
+</article>
