@@ -24,7 +24,7 @@ export const NAV = [
 
 export const SOCIAL = [
   { label: 'GitHub', icon: 'github', href: 'https://github.com/milanstevanovic' },
-  { label: 'LinkedIn', icon: 'linkedin', href: 'https://linkedin.com/in/milanstevanovic' },
+  { label: 'LinkedIn', icon: 'linkedin', href: 'https://www.linkedin.com/in/mlstevanovic' },
   { label: 'Email', icon: 'email', href: 'mailto:hello@milan.bio' },
 ] as const;
 
