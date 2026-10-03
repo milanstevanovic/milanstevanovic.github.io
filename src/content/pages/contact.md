@@ -1,9 +1,10 @@
 ---
 title: "Contact Me"
+description: "Get in touch about a dedicated engineering team in Serbia or fractional product & tech leadership."
 draft: false
 ---
 
-I'm always interested in discussing new opportunities, collaborations, or just having a chat about technology and product development.
+Looking for a dedicated engineering team in Serbia, or senior product and tech leadership for your company? Tell me what you need, whether it is one engineer, a full team or a leader, and I will get back to you.
 
 ## Contact Information
 
@@ -11,6 +12,4 @@ I'm always interested in discussing new opportunities, collaborations, or just h
 - **LinkedIn**: [linkedin.com/in/mlstevanovic](https://www.linkedin.com/in/mlstevanovic)
 - **GitHub**: [github.com/milanstevanovic](https://github.com/milanstevanovic)
 
-## Let's Connect
-
-Whether you're looking for a senior software engineer, need product management expertise, or want to discuss cross-platform mobile development, I'd love to hear from you.
+## Send a Message
