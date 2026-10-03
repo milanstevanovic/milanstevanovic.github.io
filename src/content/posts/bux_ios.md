@@ -60,4 +60,4 @@ Our mission was clear: build a mobile-first investment platform that makes tradi
 
 My success building these features led to my promotion to Product Manager, where I applied my technical knowledge to drive product strategy and team leadership.
 
-Ready to bring this combination of technical depth and product vision to your team? Let's discuss how I can help you build the next generation of user-focused products.
+Today I bring this combination of technical depth and product vision to other companies, as [fractional product and tech leadership](/services/#fractional-leadership) and through [dedicated engineering teams in Serbia](/services/#dedicated-engineering-teams).

@@ -15,9 +15,9 @@ In a world where stress and burnout have become endemic, I partnered with [Chris
 
 As Co-founder and CTO of [Goodmorning](https://www.goodmorning.me/), I didn't just build an app - I built an entire company from the ground up.
 
-## What I'm Building: From First Line of Code to Full Product
+## What I Built: From First Line of Code to Full Product
 
-**The iOS App** (2025 - Ongoing)
+**The iOS App** (2025)
 - **The Challenge**: Create an intuitive interface for complex breathing patterns
 - **My Solution**: Native iOS app with SwiftUI MVVM architecture
 - **Technical Stack**: Swift, SwiftUI, Rive for stunning animations, Core Audio
@@ -89,13 +89,12 @@ As CTO and Co-founder, my responsibilities extended far beyond writing code:
 
 ## The Impact: Technology That Actually Helps People
 
-**Current Progress** (Project Ongoing):
+**Progress** (March to October 2025):
 - Active development with rapid iteration cycles
 - Early user feedback shaping feature priorities
 - Building foundation for scalable wellness platform
 
-**The Vision Forward**:
-- Launch on App Store in 2025
+**The Product Vision**:
 - Expanding to Android platform
 - Integration with health tracking devices
 - Corporate wellness programs
@@ -111,4 +110,4 @@ As CTO and Co-founder, my responsibilities extended far beyond writing code:
 
 **Startup Resilience**: Navigating the challenges of early-stage development while maintaining momentum and team morale.
 
-Ready to bring this combination of technical excellence, organizational leadership, and mission-driven focus to your team? Let's discuss how I can help you build products that make a real difference.
+I bring the same combination of technical depth and organizational leadership to other companies as a [fractional CTO or product leader](/services/#fractional-leadership).

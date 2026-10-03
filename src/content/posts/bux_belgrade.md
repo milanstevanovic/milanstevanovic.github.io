@@ -104,4 +104,4 @@ As Country General Manager for Serbia, I was tasked with establishing our first 
 
 **Risk Management**: Navigated legal, financial, and operational risks in unfamiliar business environment.
 
-Ready to help you expand your engineering capabilities internationally or build high-performing product teams? Let's discuss how I can accelerate your growth plans.
+This is what Milan Ventures now does for its clients: [dedicated engineering teams in Serbia](/services/#dedicated-engineering-teams), hired, employed and run with the same playbook, staffed in less than a month and backed by a two-week guarantee.

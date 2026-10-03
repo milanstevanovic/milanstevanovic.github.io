@@ -78,4 +78,4 @@ As Product Manager, I was tasked with bringing BUX to the web while maintaining 
 
 **Team Building**: Successfully hired and integrated new engineering talent while maintaining company culture and product quality.
 
-Looking for a product leader who can take your successful product to new platforms and markets? Let's discuss how I can help you scale your next big idea.
+Taking your product to new platforms and markets? I can lead it as a [fractional product leader](/services/#fractional-leadership), and Milan Ventures can build the [team that delivers it](/services/#dedicated-engineering-teams).

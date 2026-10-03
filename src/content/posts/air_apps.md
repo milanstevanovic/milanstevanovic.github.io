@@ -45,4 +45,4 @@ As Product Manager for **Hello AI**, I was among the first to integrate OpenAI's
 
 **Cross-Platform Expertise**: Experience managing products across the entire iOS ecosystem, from consumer apps to enterprise solutions.
 
-If you're looking for a product leader who can navigate technical complexity while driving business outcomes, let's talk.
+Need a product leader who can navigate technical complexity while driving business outcomes? I work with companies as a [fractional Head of Product, VP or CPO](/services/#fractional-leadership).
