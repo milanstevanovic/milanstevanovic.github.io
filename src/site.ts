@@ -4,13 +4,15 @@ export const SITE = {
   name: 'Milan Stevanović',
   url: 'https://milan.bio',
   // Meta description for the home page and for pages without their own.
-  description: "The story of a software engineer's path through technology and life",
-  subtitle: 'Senior Software Engineer & Product Manager',
-  keywords: 'software engineer, product manager, iOS, kotlin multiplatform, mobile development',
+  description:
+    'Dedicated engineering teams in Serbia and product & tech leadership for companies in the Netherlands, Europe and the US, through Milan Ventures.',
+  subtitle: 'Founder, Milan Ventures',
+  keywords:
+    'software outsourcing Serbia, dedicated engineering teams, nearshore development, fractional CTO, fractional CPO, head of product, product and tech leadership',
   // Lines under the name on the home page.
   roleLines: [
-    'Co-Founder & CTO',
-    '10+ years across engineering, product, and leadership roles',
+    'Founder, Milan Ventures',
+    'Dedicated engineering teams in Serbia · Product & tech leadership at Head, VP and C-level',
   ],
   lang: 'en',
 };
