@@ -30,3 +30,7 @@ Astro 7, static output, Tailwind 4, hosted on GitHub Pages. Milan is the only ed
 - Push to `main` deploys through `.github/workflows/deploy.yml`.
 - Small edits go straight to `main`. Larger changes go on a branch with a pull request.
 - Run `npm run build` and `npm run check:urls` before every push.
+
+## Open items
+- Get a proper email address on a company domain. Until then the site uses milan.stevanovic.nl@gmail.com (in `src/site.ts`, `src/content/pages/contact.md` and `cv.md`).
+- Pick a proper new company name. "Milan Ventures" is the name for now.

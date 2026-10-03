@@ -18,8 +18,8 @@ export const SITE = {
 };
 
 export const NAV = [
-  { label: 'My Journey', href: '/posts/' },
   { label: 'Services', href: '/services/' },
+  { label: 'Case Studies', href: '/posts/' },
   { label: 'CV', href: '/cv/' },
   { label: 'Contact', href: '/contact/' },
 ];
@@ -27,8 +27,23 @@ export const NAV = [
 export const SOCIAL = [
   { label: 'GitHub', icon: 'github', href: 'https://github.com/milanstevanovic' },
   { label: 'LinkedIn', icon: 'linkedin', href: 'https://www.linkedin.com/in/mlstevanovic' },
-  { label: 'Email', icon: 'email', href: 'mailto:hello@milan.bio' },
+  // TODO: switch to an address on a company domain once there is one.
+  { label: 'Email', icon: 'email', href: 'mailto:milan.stevanovic.nl@gmail.com' },
 ] as const;
+
+// The two offers shown on the home page. Teams come first: it is the main business.
+export const OFFERS = [
+  {
+    title: 'Dedicated Engineering Teams',
+    text: 'Engineers, QA, designers and product managers in Serbia, employed and run by Milan Ventures. From one person to a full team or managed delivery. Staffed in less than a month, with a two-week guarantee.',
+    href: '/services/#dedicated-engineering-teams',
+  },
+  {
+    title: 'Fractional Leadership',
+    text: 'Head of Product, VP, CPO or CTO for companies that need senior product and tech leadership now, without a full-time executive hire.',
+    href: '/services/#fractional-leadership',
+  },
+];
 
 export const FOOTER = {
   owner: 'Milan Stevanović',

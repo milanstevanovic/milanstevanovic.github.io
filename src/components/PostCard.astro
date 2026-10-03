@@ -5,9 +5,11 @@ import { formatDate, readingTime, type Post } from '../lib/posts';
 interface Props {
   post: Post;
   eager?: boolean;
+  headingLevel?: 2 | 3;
 }
 
-const { post, eager = false } = Astro.props;
+const { post, eager = false, headingLevel = 2 } = Astro.props;
+const Heading = `h${headingLevel}` as 'h2' | 'h3';
 const { title, description, date, cover } = post.data;
 ---
 
@@ -22,11 +24,11 @@ const { title, description, date, cover } = post.data;
     fetchpriority={eager ? 'high' : 'auto'}
   />
   <div class="p-5">
-    <h2 class="text-lg font-semibold leading-snug">
+    <Heading class="text-lg font-semibold leading-snug">
       <a href={`/posts/${post.id}/`} class="no-underline after:absolute after:inset-0 group-hover:underline">
         {title}
       </a>
-    </h2>
+    </Heading>
     <p class="mt-2 text-muted">{description}</p>
     <p class="mt-3 text-sm text-muted">
       <time datetime={date.toISOString()}>{formatDate(date)}</time> · {readingTime(post.body)} min
