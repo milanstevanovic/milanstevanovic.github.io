@@ -3,20 +3,17 @@ title: "Goodmorning: Building a Wellness Tech Startup as Co-founder & CTO"
 description: "Co-founding and leading tech development for an iOS breathwork app, from zero to launch"
 date: 2025-01-30T10:00:00+01:00
 draft: false
-disable_share: true
 cover:
-  image: "/img/goodmorning.png"
+  image: "../../assets/img/goodmorning.png"
   alt: "Goodmorning App Screenshot"
   caption: "Goodmorning - Breathwork for Stress Relief"
 ---
 
-# The Mission: Making Wellness Accessible Through Technology
+## The Mission: Making Wellness Accessible Through Technology
 
 In a world where stress and burnout have become endemic, I partnered with [Chris Zadeh](https://www.whangai.nl/about-the-founder) - serial entrepreneur and founder of [Ohpen](https://en.wikipedia.org/wiki/Ohpen) - to create something meaningful: an app that brings scientifically-backed breathwork techniques to everyone's pocket.
 
 As Co-founder and CTO of [Goodmorning](https://www.goodmorning.me/), I didn't just build an app - I built an entire company from the ground up.
-
-![Goodmorning App](/img/goodmorning.png)
 
 ## What I'm Building: From First Line of Code to Full Product
 

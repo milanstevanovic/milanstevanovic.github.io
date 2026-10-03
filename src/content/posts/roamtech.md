@@ -3,22 +3,19 @@ title: "Roamtech: Building a Product Organization from Scratch"
 description: "Joining an African fintech with five live products and no product function, and building one from the ground up as Head of Product"
 date: 2026-04-10T10:00:00+01:00
 draft: false
-disable_share: true
 cover:
-  image: "/img/roamtech.png"
+  image: "../../assets/img/roamtech.png"
   alt: "Roamtech"
   caption: "Roamtech — Payments, Remittance, and Communications across Africa"
 ---
 
-# The Mission: Turn Five Products Into a Real Product Organization
+## The Mission: Turn Five Products Into a Real Product Organization
 
 In January 2026, I joined [Roamtech](https://www.roamtech.com/) as **Head of Product**, reporting to the CTO. Roamtech is a Kenyan fintech and telecom company running five live products across three very different domains — and when I arrived, there was no structured product function behind any of them.
 
 No PRDs. No consistent tooling. Ad-hoc delivery. No planning cadence. Teams distributed across Kenya, Dubai, the UK, and Serbia, each working off whatever process had accreted over the years.
 
 The mandate was simple to describe and hard to execute: **build a modern product organization from scratch, without stopping the trains that are already running.**
-
-![Roamtech](/img/roamtech.png)
 
 ## The Challenge: Five Products, Three Domains, Zero Product Function
 

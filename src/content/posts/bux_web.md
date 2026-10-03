@@ -3,20 +3,17 @@ title: "BUX Web: From Mobile-First to Multi-Platform Leadership"
 description: "Led product strategy to expand successful mobile app to web platform, driving 40% user growth"
 date: 2023-11-10T11:04:27+01:00
 draft: false
-disable_share: true
 cover:
-  image: "/img/bux_web.png"
+  image: "../../assets/img/bux_web.png"
   alt: "BUX Web Platform"
   caption: "Expanding BUX to Web - Multi-Platform Trading"
 ---
 
-# The Strategic Challenge: Expanding Beyond Mobile
+## The Strategic Challenge: Expanding Beyond Mobile
 
 By 2021, BUX's mobile app had achieved remarkable success with 1M+ users across Europe. But our data revealed a critical opportunity: users wanted advanced features that were better suited for larger screens—detailed portfolio analysis, complex charting, and educational content.
 
 As Product Manager, I was tasked with bringing BUX to the web while maintaining our mobile-first DNA and user experience excellence.
-
-![BUX Web App](/img/bux_web.png)
 
 ## The Product Strategy: Complementary, Not Duplicate
 
@@ -38,7 +35,7 @@ As Product Manager, I was tasked with bringing BUX to the web while maintaining 
 - Advanced charting tools
 - All visible simultaneously without context switching
 
-![BUX Web Interface](/img/bux_web_ui.png)
+![BUX Web Interface](../../assets/img/bux_web_ui.png)
 
 ## Building the Right Team
 

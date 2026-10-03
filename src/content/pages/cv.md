@@ -1,16 +1,10 @@
-+++
-title = 'Resume'
-date = 2023-11-06T15:28:28+01:00
-draft = false
-+++
+---
+title: "Resume"
+heading: "Milan Stevanović"
+draft: false
+---
 
-<div style="text-align: right; margin-bottom: 20px;">
-  <button onclick="window.print()" style="padding: 8px 16px; background-color: #333; color: white; border: none; border-radius: 4px; cursor: pointer;">Print / Save as PDF</button>
-</div>
-
-![Avatar](/img/avatar.png)
-
-# Milan Stevanović
+![Avatar](../../assets/img/avatar.png)
 
 **Product-First CTO | 0→100 Builder | Global Dev Team Assembly**  
 Amsterdam, North Holland, Netherlands  

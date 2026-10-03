@@ -4,7 +4,7 @@ date: 2024-12-15T10:00:00+01:00
 draft: false
 description: "A conversation about building the future of hospitality technology"
 cover:
-  image: "/img/enginears.png"
+  image: "../../assets/img/enginears.png"
   alt: "Enginears Podcast Episode"
   caption: "Discussing Tebi's Mission on Enginears Podcast"
 ---
@@ -23,7 +23,9 @@ In this episode, we sat down with host Elliot Kipling to explore:
 
 ## Watch the Full Episode
 
-{{< youtube 06_6iRwOeNk >}}
+<div class="video">
+  <iframe src="https://www.youtube-nocookie.com/embed/06_6iRwOeNk" title="Enginears Podcast: Discussing Tebi's Mission" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## About Tebi
 

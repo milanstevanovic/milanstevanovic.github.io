@@ -3,20 +3,17 @@ title: "BUX iOS: Building Europe's Leading Neo-Brokerage App"
 description: "Founding engineer who built BUX Zero from ground up, serving 1M+ users across Europe"
 date: 2023-11-09T15:54:00+01:00
 draft: false
-disable_share: true
 cover:
-  image: "/img/bux_ios.png"
+  image: "../../assets/img/bux_ios.png"
   alt: "BUX iOS App Screenshot"
   caption: "BUX Zero - Europe's Leading Neo-Brokerage App"
 ---
 
-# The Mission: Democratize Investing for Everyone
+## The Mission: Democratize Investing for Everyone
 
 When I joined BUX as a founding iOS engineer in 2017, retail investing was complex, expensive, and intimidating. Traditional brokerages charged high fees and offered confusing interfaces that scared away everyday investors.
 
 Our mission was clear: build a mobile-first investment platform that makes trading stocks, ETFs, and fractional shares as simple as using any other app on your phone.
-
-![BUX iOS App](/img/bux_ios.png)
 
 ## What I Built: Features That Changed Everything
 
@@ -35,9 +32,7 @@ Our mission was clear: build a mobile-first investment platform that makes tradi
 - **My Solution**: Full-featured charting with technical indicators, customizable timeframes, and professional-grade tools
 - **Impact**: Attracted institutional users while remaining accessible to beginners
 
-<div align="center">
-    <img src="/img/bux_ios_chart.png" alt="BUX iOS Chart" style="width:50%;"/>
-</div>
+![BUX iOS Chart](../../assets/img/bux_ios_chart.png)
 
 ## The Results: From Startup to Market Leader
 

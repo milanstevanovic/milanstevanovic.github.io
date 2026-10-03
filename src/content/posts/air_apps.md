@@ -3,14 +3,13 @@ title: "Air Apps: Product Leadership in AI-First Mobile Apps"
 description: "Leading product strategy for Hello AI, one of the first apps to integrate OpenAI GPT APIs"
 date: 2023-11-12T14:55:53+01:00
 draft: false
-disable_share: true
 cover:
-  image: "/img/air_apps.png"
+  image: "../../assets/img/air_apps.png"
   alt: "Air Apps Product Portfolio"
   caption: "Building AI-First Mobile Applications"
 ---
 
-# The Challenge: Managing Multiple iOS Apps at Scale
+## The Challenge: Managing Multiple iOS Apps at Scale
 
 When I joined [AirApps](https://airapps.co/) as Product Manager, I inherited a complex ecosystem. The company had built a portfolio of successful iOS apps, including Translate Now (featured in Apple's 2023 WWDC keynote), but faced the challenge of managing multiple applications efficiently while maintaining innovation speed.
 

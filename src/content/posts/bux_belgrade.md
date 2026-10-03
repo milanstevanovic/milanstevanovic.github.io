@@ -3,20 +3,17 @@ title: "BUX Belgrade: Building International Engineering Teams"
 description: "Founded and led BUX Serbia as Country GM, scaling from 0 to full engineering hub in 12 months"
 date: 2023-11-12T14:54:46+01:00
 draft: false
-disable_share: true
 cover:
-  image: "/img/bux_belgrade_1.png"
+  image: "../../assets/img/bux_belgrade_1.png"
   alt: "BUX Belgrade Office"
   caption: "Building BUX's International Engineering Hub"
 ---
 
-# The Business Challenge: Scaling Engineering Talent
+## The Business Challenge: Scaling Engineering Talent
 
 By 2022, BUX had reached product-market fit with 1M+ users, but faced a critical constraint: Amsterdam's competitive tech talent market was limiting our engineering growth. We needed to expand internationally while maintaining our culture and technical standards.
 
 As Country General Manager for Serbia, I was tasked with establishing our first international engineering hub from scratch.
-
-![BUX Serbia Office](/img/bux_belgrade_1.png)
 
 ## Building a Company: From Legal Entity to Operating Business
 
@@ -47,7 +44,7 @@ As Country General Manager for Serbia, I was tasked with establishing our first 
 - Achieved 95% offer acceptance rate
 - Built waiting lists for future positions
 
-![BUX Serbia Team](/img/bux_belgrade_2.png)
+![BUX Serbia Team](../../assets/img/bux_belgrade_2.png)
 
 ## Cultural Integration: One BUX, Multiple Locations
 
