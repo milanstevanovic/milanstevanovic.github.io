@@ -28,6 +28,15 @@ My sweet spot:
 
 ## Experience
 
+### Roamtech Solutions Limited
+**Head of Product** · Contract
+*January 2026 - Present*
+Nairobi County, Kenya · Remote
+
+Leading product strategy across Roamtech's fintech and communications product portfolio serving users around the world.
+
+Building a modern product organization grounded in empowered teams, continuous discovery, and outcome-driven development. Responsible for product vision, roadmap prioritization, and evolving the team's craft toward world-class product management practices.
+
 ### Milan Ventures DOO
 **CEO & Founder**
 *March 2025 - Present*
