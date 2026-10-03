@@ -1,12 +1,13 @@
 ---
 title: "Resume"
 heading: "Milan Stevanović"
+description: "CV of Milan Stevanović, founder of Milan Ventures: product and engineering leadership, and engineering teams in Serbia."
 draft: false
 ---
 
 ![Avatar](../../assets/img/avatar.png)
 
-**Product-First CTO | 0→100 Builder | Global Dev Team Assembly**  
+**Founder, Milan Ventures | Dedicated Engineering Teams | Fractional Product & Tech Leadership**  
 Amsterdam, North Holland, Netherlands  
 [milan.stevanovic.nl@gmail.com](mailto:milan.stevanovic.nl@gmail.com)  
 [www.linkedin.com/in/mlstevanovic](https://www.linkedin.com/in/mlstevanovic)  
@@ -14,17 +15,16 @@ Amsterdam, North Holland, Netherlands
 
 ## Summary
 
-I build products from zero to exit.
+I build product and engineering organizations.
 
-Started out coding iOS apps, scaled to Product Manager at BUX (€100M+ neobroker), then became a CTO. Now I help startups navigate the entire journey - from napkin sketch to cap table, from first line of code to Series A metrics.
+Started out coding iOS apps, became Product Manager at BUX (€100M+ neobroker), set up and ran its engineering hub in Serbia, then led product and tech as CTO and Head of Product. Today, through Milan Ventures, I give companies in the Netherlands, Europe and the US the teams and the leadership to build their products.
 
-What I actually do:
-- Product Strategy: Transform ideas into products people pay for. I've built fintech apps with millions in revenue and wellness platforms from scratch.
+What I do:
+- Dedicated Engineering Teams: Hire, employ and run engineers, QA, designers and product managers in Serbia, from a single engineer to a full team or managed delivery.
+- Fractional Leadership: Step in as Head of Product, VP, CPO or CTO for companies that need senior product and tech leadership now.
 - Technical Due Diligence: Evaluate tech stacks, teams, and burn rates. I speak both VC and developer.
-- Team Assembly: Connect startups with battle-tested engineering teams globally. Built development hubs in Serbia, managed teams in Netherlands, Dubai, and beyond.
 
-My sweet spot:
-- Fintech startups that need someone who can read both code and term sheets. I've been an Engineer who wrote code, the Product Manager who shipped, the CTO who hired, and now I'm the advisor who's seen all the mistakes.
+I've been the Engineer who wrote code, the Product Manager who shipped, the GM who built a team in a new country, and the CTO who hired.
 
 ## Experience
 
@@ -42,10 +42,9 @@ Building a modern product organization grounded in empowered teams, continuous d
 *March 2025 - Present*
 Belgrade, Serbia · Remote
 
-- Founded Milan Ventures DOO to provide IT consulting and software outsourcing services to international clients
-- Deliver strategic technical guidance and CTO-level consulting for companies across various industries
-- Build and manage dedicated engineering teams through outsourcing partnerships, connecting clients with top Serbian development talent
-- Offer end-to-end software development consulting from architecture and team building to technical leadership
+- Founded Milan Ventures DOO to provide dedicated engineering teams and product and tech leadership to companies in the Netherlands, Europe and the US
+- Employ and run engineers, QA, designers and product managers in Serbia, working as an extension of client teams, as dedicated teams, or on managed delivery
+- Provide fractional Head of Product, VP and C-level leadership for product and tech
 
 ### nQode
 **Business Development Partner**
@@ -62,12 +61,12 @@ Novi Sad, Vojvodina, Serbia · Remote
 Amsterdam, North Holland, Netherlands · Remote
 
 - Co-founded [Goodmorning](https://www.goodmorning.me/), a wellness tech startup focused on scientifically-backed breathwork for stress relief
-- Leading all technical development as CTO, from first line of code to full product architecture
+- Led all technical development as CTO, from first line of code to full product architecture
 - Built native iOS app using SwiftUI with MVVM architecture, Rive animations, and AI-powered voice guidance (ElevenLabs)
 - Architected full-stack solution with Spring Boot/Kotlin backend and automated CI/CD pipelines
 - Established entire tech infrastructure: Google Workspace, Linear, GitHub, and security protocols
-- Building and leading the engineering team while maintaining hands-on development
-- Leveraging AI-accelerated development with Claude Code MCP integrations for Figma, Linear, and Google Workspace
+- Built and led the engineering team while staying hands-on in development
+- Used AI-accelerated development with Claude Code MCP integrations for Figma, Linear, and Google Workspace
 
 ### Tebi
 **Senior Software Engineer**  
@@ -145,8 +144,8 @@ Novi Sad, Serbia
 
 ### Top Skills
 - Product Management
-- iOS Development
-- Software Development Outsourcing
+- Engineering Team Building
+- Product & Tech Leadership
 
 ### Languages
 - Serbian (Native or Bilingual)
